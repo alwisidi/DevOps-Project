@@ -1,6 +1,8 @@
-const express = require("express");
-const app = express();
+const express = require('express')
+const app = express()
 
-app.get("/", (req, res) => {
-    res.json({ message: "Hey" });
-});
+app.get('/', async (req, res) => {
+	await res.json({ message: 'Hey' })
+})
+
+module.exports = app
