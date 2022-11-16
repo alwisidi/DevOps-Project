@@ -2,6 +2,7 @@
 
 ## Setup the Dev Environment automatically
 git clone https://github.com/alwisidi/tuwaiq_devops_project.git
+cd ./tuwaiq_devops_project
 npm i --prefix ./server
 npm i --prefix ./client
 
