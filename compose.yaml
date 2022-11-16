@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  devops_backend:
+    image: devops_backend:latest
+    build: .
+    ports:
+      - '3001:3001'
+  devops_frontend:
+    image: devops_frontend:latest
+    environment:
+      PORT: 3000
+      PROXY_API: http://devops_backend:3001/
+    ports:
+      - '3000:3000'
