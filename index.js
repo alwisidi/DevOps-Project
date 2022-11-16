@@ -2,7 +2,7 @@ const express = require('express'),
 	app = express(),
 	cors = require('cors'),
 	greeting = require('./routes/greeting'),
-	PORT = 3732
+	PORT = 3001
 
 // Middleware
 app.use(cors())
