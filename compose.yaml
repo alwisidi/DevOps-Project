@@ -12,5 +12,3 @@ services:
       PROXY_API: http://devops_backend:3001/
     ports:
       - '3000:3000'
-  redis:
-    image: 'redis:alpine'
