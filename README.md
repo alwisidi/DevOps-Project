@@ -10,4 +10,4 @@ You will find the project seperated into two branches (backend, frontend).
 
 I hope you would find it usefull and fruitfull.
 
-Best of luck ^^
+Best of luck :)
