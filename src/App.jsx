@@ -6,7 +6,7 @@ const App = () => {
 	const [message, setMessage] = useState(null)
 	const handleClick = (e) => {
 		e.preventDefault()
-		fetch('http://localhost:3732/api/greeting')
+		fetch('http://localhost:3001/api/greeting')
 			.then((res) => res.json())
 			.then((res) => {
 				setMessage(res.message)
