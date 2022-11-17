@@ -1,15 +1,40 @@
-# DevOps Project
+# Intro to DevOps - Project
 
-Welcome.. 
+This is the final project in "Intro to DevOps" course at Tuwaiq Academy - Nov 2022.
 
-This is the final project in our course "Intro to DevOps" - Nov 2022.
+## Overview
 
-It demonestrates our understanding of docker and docker compose, and how containers are made, and how they communicate with each other.
+### In this course we have learned an intro level knowledge about DevOps Engineering and Site Realibility Engineering. Also, we covered the basics of containerization, automation (CI/CD), and orchestration.
 
-To setup the project environment and run docker compose simply type this in the bash terminal:
+## Project goal
 
-$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/alwisidi/tuwaiq_devops_project/main/setup.sh)"
+Demonestrating our understanding of docker and docker compose, and how to build and run multiple containers in one wrapped environment, and how they communicate with each other. Furthermore, automating the setup of the development environment and building and running the containers.
+
+## Project Diagram
+
+# ![Project Diagram](https://raw.github.com/alwisidi/tuwaiq_devops_project/blob/main/prj_diagram.png)
+
+## Project Requirements / Description
+
+- Building full-stack web application.
+- Containerizing the app by separating the backend and the frontend into two containers.
+- Using Docker Compose to run them in one pod.
+- Automating the the process.
+
+## Dependencies
+
+- NodeJS
+- Docker
+- Docker Compose
+
+## Environment Setup
+
+Simply type this command in the bash terminal:
+
+```shellscript
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/alwisidi/tuwaiq_devops_project/main/setup.sh)"
+```
 
 I hope you would find it usefull and fruitfull.
 
-Best of luck :)
+Best of luck ^^
