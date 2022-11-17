@@ -3,10 +3,11 @@
 ## Setup the Dev Environment automatically
 git clone https://github.com/alwisidi/tuwaiq_devops_project.git
 cd ./tuwaiq_devops_project
-npm i --prefix ./server
-npm i --prefix ./client
 
-## To run both the server and the react app in one line
+## To install the dependecies in the development environment
+# npm i --prefix ./server & npm i --prefix ./client
+
+## To run both the server and the react app
 # node ./server/index.js & cd ./client && npm start
 
 ## Build Docker images and run them using Docker Compose
