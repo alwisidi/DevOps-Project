@@ -1,4 +1,4 @@
-<img src="https://launch.sa/assets/images/logos/tuwaiq-academy-logo.svg" alt="Tuwaiq Academy Logo" width="200" align="right"/>
+<img src="https://launch.sa/assets/images/logos/tuwaiq-academy-logo.svg" alt="Tuwaiq Academy Logo" width="175" align="right"/>
 
 # Intro to DevOps - Project
 
