@@ -1,3 +1,5 @@
+<img src="https://launch.sa/assets/images/logos/tuwaiq-academy-logo.svg" alt="Tuwaiq Academy Logo" width="175" style="position: absolute; right: 7.5%"/>
+
 # Intro to DevOps - Project
 
 This is the final project in "Intro to DevOps" course at Tuwaiq Academy - Nov 2022.
