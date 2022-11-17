@@ -4,7 +4,7 @@ This is the final project in "Intro to DevOps" course at Tuwaiq Academy - Nov 20
 
 ## Overview
 
-### In this course we have learned an intro level knowledge about DevOps Engineering and Site Realibility Engineering. Also, we covered the basics of containerization, automation (CI/CD), and orchestration.
+In this course we have learned an intro level knowledge about DevOps Engineering and Site Realibility Engineering. Also, we covered the basics of containerization, automation (CI/CD), and orchestration.
 
 ## Project goal
 
@@ -12,7 +12,7 @@ Demonestrating our understanding of docker and docker compose, and how to build 
 
 ## Project Diagram
 
-# ![Project Diagram](https://raw.github.com/alwisidi/tuwaiq_devops_project/blob/main/prj_diagram.png)
+# ![Project Diagram](./prj_diagram.png)
 
 ## Project Requirements / Description
 
